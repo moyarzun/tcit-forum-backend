@@ -30,11 +30,12 @@ Desarrollado por [Mauricio Oyarzún](https://github.com/moyarzun).
 
 4. Asegurar que la base de datos esté en ejecución y accesible desde la ubicación del servidor.
 
-5. Configurar la base de datos:
+5. Configurar la base de datos con migraciones y semillas para ambiente de desarrollo:
 
     ```bash
     rails db:create
     rails db:migrate
+    rails db:seed
     ```
 
 ## Ejecución en Ambiente de Desarrollo
