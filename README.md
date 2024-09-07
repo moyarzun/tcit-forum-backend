@@ -1,6 +1,3 @@
-# tcit-forum-frontend
-Frontend para aplicación de foro con React y Redux - TCIT Challenge
-
 # TCIT Challenge - Backend para Aplicación de Manejo de Posts
 
 Aplicación para lectura, creación y eliminación de mensajes (posts). Backend (servidor) desarrollado con Ruby on Rails.
