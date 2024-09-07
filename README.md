@@ -45,7 +45,7 @@ Desarrollado por [Mauricio Oyarzún](https://github.com/moyarzun).
     rails s
     ```
 
-2. Abrir navegador en [http://localhost:3001](http://localhost:3001)
+2. Abrir navegador en [http://localhost:3001/api/v1/posts](http://localhost:3001/api/v1/posts) para verificar que la aplicación esté en ejecución.
 
 ## Ejecución en Ambiente de Producción
 
@@ -62,4 +62,4 @@ Desarrollado por [Mauricio Oyarzún](https://github.com/moyarzun).
     RAILS_ENV=production rails s
     ```
 
-3. Abrir navegador en [http://localhost:3001](http://localhost:3001)
+3. Abrir navegador en [http://localhost:3001/api/v1/posts](http://localhost:3001/api/v1/posts) para verificar que la aplicación esté en ejecución.
